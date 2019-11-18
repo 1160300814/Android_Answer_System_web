@@ -1,3 +1,3 @@
-1.Exam0711ÏîÄ¿Îª°²×¿¶ËµÄÄÚÈÝ£¬Ó¦ÓÃÓÚAndroid StudioÈí¼þ.×¢ÒâÊÂÏîÏê¼ûÏîÄ¿ÖÐµÄReadme.txt¡£
-2.examserverÏîÄ¿ÎªÍøÒ³¶Ë£¬Ó¦ÓÃÓÚintellij IDEAÈí¼þ£¬×¢ÒâÊÂÏîÏê¼ûÏîÄ¿ÖÐµÄReadme.txt¡£
-3.ÅäÖÃÎÊÌâ×ÔÐÐ½â¾ö£¬ÍøºÃµÄÊ±ºòÖØ×°¿ÉÒÔ½â¾ö´ó²¿·ÖÎÊÌâ£¬±ðÎÊÎÒÔõÃ´ÖªµÀµÄ¡£
+1.Exam0711é¡¹ç›®ä¸ºå®‰å“ç«¯çš„å†…å®¹ï¼Œåº”ç”¨äºŽAndroid Studioè½¯ä»¶.æ³¨æ„äº‹é¡¹è¯¦è§é¡¹ç›®ä¸­çš„Readme.txtã€‚
+2.examserveré¡¹ç›®ä¸ºç½‘é¡µç«¯ï¼Œåº”ç”¨äºŽintellij IDEAè½¯ä»¶ï¼Œæ³¨æ„äº‹é¡¹è¯¦è§é¡¹ç›®ä¸­çš„Readme.txtã€‚
+3.é…ç½®é—®é¢˜è‡ªè¡Œè§£å†³ï¼Œç½‘å¥½çš„æ—¶å€™é‡è£…å¯ä»¥è§£å†³å¤§éƒ¨åˆ†é—®é¢˜ã€‚ï¼ˆäº²æµ‹ï¼‰
